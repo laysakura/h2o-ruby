@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = H2o::Ruby::VERSION
   spec.authors       = ["Sho Nakatani"]
   spec.email         = ["lay.sakura@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{H2O/Ruby Interface}
+  spec.description   = %q{H2O/Ruby Interface}
   spec.homepage      = ""
   spec.license       = "MIT"
 
